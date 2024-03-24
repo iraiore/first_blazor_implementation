@@ -29,3 +29,4 @@ C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\prog_acess_bd\first_blazor_implemen
 C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\prog_acess_bd\first_blazor_implementation\obj\Debug\net6.0\first_blazor_implementation.pdb
 C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\prog_acess_bd\first_blazor_implementation\obj\Debug\net6.0\first_blazor_implementation.genruntimeconfig.cache
 C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\prog_acess_bd\first_blazor_implementation\obj\Debug\net6.0\ref\first_blazor_implementation.dll
+C:\Users\mgdbe\OneDrive\Área de Trabalho\pp\prog_acess_bd\first_blazor_implementation\obj\Debug\net6.0\first_blazor_implementation.sourcelink.json

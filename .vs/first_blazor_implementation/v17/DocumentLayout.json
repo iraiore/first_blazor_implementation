@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{31C35177-A766-4ABC-A3DC-50B8173BF455}|first_blazor_implementation.csproj|solutionrelative:pages\\somardoisvalores.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{31C35177-A766-4ABC-A3DC-50B8173BF455}|first_blazor_implementation.csproj|c:\\users\\mgdbe\\onedrive\\\u00E1rea de trabalho\\pp\\prog_acess_bd\\first_blazor_implementation\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31C35177-A766-4ABC-A3DC-50B8173BF455}|first_blazor_implementation.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{31C35177-A766-4ABC-A3DC-50B8173BF455}|first_blazor_implementation.csproj|c:\\users\\mgdbe\\onedrive\\\u00E1rea de trabalho\\pp\\prog_acess_bd\\first_blazor_implementation\\data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31C35177-A766-4ABC-A3DC-50B8173BF455}|first_blazor_implementation.csproj|solutionrelative:data\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31C35177-A766-4ABC-A3DC-50B8173BF455}|first_blazor_implementation.csproj|c:\\users\\mgdbe\\onedrive\\\u00E1rea de trabalho\\pp\\prog_acess_bd\\first_blazor_implementation\\data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31C35177-A766-4ABC-A3DC-50B8173BF455}|first_blazor_implementation.csproj|solutionrelative:data\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31C35177-A766-4ABC-A3DC-50B8173BF455}|first_blazor_implementation.csproj|c:\\users\\mgdbe\\onedrive\\\u00E1rea de trabalho\\pp\\prog_acess_bd\\first_blazor_implementation\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{31C35177-A766-4ABC-A3DC-50B8173BF455}|first_blazor_implementation.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,16 +30,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\mgdbe\\OneDrive\\\u00C1rea de Trabalho\\pp\\prog_acess_bd\\first_blazor_implementation\\Shared\\NavMenu.razor",
               "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
               "ToolTip": "C:\\Users\\mgdbe\\OneDrive\\\u00C1rea de Trabalho\\pp\\prog_acess_bd\\first_blazor_implementation\\Shared\\NavMenu.razor",
               "RelativeToolTip": "Shared\\NavMenu.razor",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACYAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-17T20:36:22.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T20:36:22.799Z"
             },
             {
               "$type": "Document",
@@ -49,14 +48,14 @@
               "RelativeDocumentMoniker": "Pages\\SomarDoisValores.razor",
               "ToolTip": "C:\\Users\\mgdbe\\OneDrive\\\u00C1rea de Trabalho\\pp\\prog_acess_bd\\first_blazor_implementation\\Pages\\SomarDoisValores.razor",
               "RelativeToolTip": "Pages\\SomarDoisValores.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-17T20:18:15.261Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WeatherForecastService.cs",
               "DocumentMoniker": "C:\\Users\\mgdbe\\OneDrive\\\u00C1rea de Trabalho\\pp\\prog_acess_bd\\first_blazor_implementation\\Data\\WeatherForecastService.cs",
               "RelativeDocumentMoniker": "Data\\WeatherForecastService.cs",
@@ -64,12 +63,11 @@
               "RelativeToolTip": "Data\\WeatherForecastService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T20:14:04.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T20:14:04.85Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\mgdbe\\OneDrive\\\u00C1rea de Trabalho\\pp\\prog_acess_bd\\first_blazor_implementation\\Data\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "Data\\WeatherForecast.cs",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Data\\WeatherForecast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T20:13:40.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T20:13:40.523Z"
             }
           ]
         }
